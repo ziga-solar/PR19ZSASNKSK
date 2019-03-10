@@ -11,14 +11,22 @@
  
 <br>
 
-##### Opis problema:
+##### Kratek opis naloge:
 
-Olimpijske igre so športni dogodek, ki se odvija vsako četro leto. Popularne so zaradi raznolike ponudbe športov, kot so smučanje, plavanje, košarka, nogomet...
-Analizirali bomo podatke razvoja športnikov (120 let) od leta 1896 v Atenah do leta 2016 v Riu.
+Namen naše naloge je analiza razvoja športnikov in športov na osnovi podatkov z Olimpijskih iger od leta 1896 v Atenah do leta 2016 v Riu (120 let).
+Olimpijske igre so športni dogodek, ki se odvija vsako četro leto. Poznamo zimske in letne Olimpijske igre. Popularne so zaradi raznolike ponudbe zimskih in letnih športov, kot so smučanje, plavanje, košarka, nogomet, itd.
 
 ##### Cilji:
 
-
+Iz podatkov bomo poskusili izluščiti naslednje informacije:
+	- 
+	-
+	-
+	-
+	-
+	-
+	-
+	-
 
 ##### Vir in oblika podatkov:
  
