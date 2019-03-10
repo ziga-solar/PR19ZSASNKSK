@@ -19,14 +19,13 @@ Olimpijske igre so športni dogodek, ki se odvija vsako četro leto. Poznamo zim
 ##### Cilji:
 
 Iz podatkov bomo poskusili izluščiti naslednje informacije:
-	- 
-	-
-	-
-	-
-	-
-	-
-	-
-	-
+	- primerjava telesnih karakteristik med različnimi športi
+	- primerjava telesnih karakteristik uspešnejših športnikov/ekip
+	- primerjava telesnih karakteristik istih športov skozi čas
+	- napoved uspešnosti športnika glede na njegove telesne karakteristike
+	- starostna porazdelitev športnikov med različnimi športi
+	- uspešnost držav na Olimpijskih igrah
+	- analiza Slovenije na Olimpijskih igrah (kje smo uspešni, zakaj?)
 
 ##### Vir in oblika podatkov:
  
