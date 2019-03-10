@@ -13,6 +13,8 @@
 
 ##### Opis problema:
 
+Olimpijske igre so športni dogodek, ki se odvija vsako četro leto. Popularne so zaradi raznolike ponudbe športov, kot so smučanje, plavanje, košarka, nogomet...
+Analizirali bomo podatke razvoja športnikov (120 let) od leta 1896 v Atenah do leta 2016 v Riu.
 
 ##### Cilji:
 
