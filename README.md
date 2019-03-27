@@ -11,22 +11,23 @@
  
 <br>
 
-##### Kratek opis naloge:
+### Vmesno Poročilo
 
-Namen naše naloge je analiza razvoja športnikov in športov na osnovi podatkov z Olimpijskih iger od leta 1896 v Atenah do leta 2016 v Riu (120 let).
-Olimpijske igre so športni dogodek, ki se odvija vsako četro leto. Poznamo zimske in letne Olimpijske igre. Popularne so zaradi raznolike ponudbe zimskih in letnih športov, kot so smučanje, plavanje, košarka, nogomet, itd.
+##### Opis Problema
 
-##### Cilji:
+Naloga, ki si jo je naša skupina zadala je analiza in obdelava podatkov zimskih in poletnih Olimpiskijh iger iz zadnjih 120 let. Iz podanih podatkov bomo poizkusili z metodami podatkovnega rudarjenja in strojnega učenja pridobiti boljši vpogled v rezultate Olimpijskih iger in karakteristike športnikov in držav, ki jih zastopajo. Izdelali bomo tudi animacijo uspešnosti držav po letih (vse medalje, zlate, srebrne in bronaste), poskušali napovedati države, ki bodo prejele medalje na tistih olimpijskih igrah, glede na prejšne rezultate. Za konec bomo tudi poizkusili napovedati športe v katerih je posameznik dober, glede na vnesene podatke.
 
-Iz podatkov bomo poskusili izluščiti naslednje informacije:
- - primerjava telesnih karakteristik med različnimi športi
- - primerjava telesnih karakteristik uspešnejših športnikov/ekip
- - primerjava telesnih karakteristik istih športov skozi čas
- - napoved uspešnosti športnika glede na njegove telesne karakteristike
- - starostna porazdelitev športnikov med različnimi športi
- - uspešnost držav na Olimpijskih igrah
- - analiza Slovenije na Olimpijskih igrah (kje smo uspešni, zakaj?)
 
-##### Vir in oblika podatkov:
- 
-Podatkovno zbirko bomo pridobili iz spletnega portala Kaggle (https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/version/2?) kjer so podatki na razpolago v formatu "csv".
+##### Podatki
+
+Podatkovno zbirko smo pridobili iz spletnega portala Kaggle (https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/version/2?) kjer so podatki na razpolago v formatu "csv". V podatkih imamo 270 000 vrstic podatkov.
+
+Podatki so v dveh tabelah. Prva tabela vsebuje 15 atributov, ki nam povedo športnikovo polno ime, spol, starost, višino, težo, ekipo, državo zastopanja, šport, dogodek, status ali je prejel medaljo in letnico, naziv, obdobje in mesto poteka olimpijskih iger. Druga tabela vsebuje kratico in naziv države ter opombo. 
+
+Za boljši pregled podatkov smo se odločii, da bomo združili tabeli v eno preko atributa kratice države (NOC).
+
+##### Izvedene analize
+
+
+##### Analize, ki jih bomo še izvedli
+
