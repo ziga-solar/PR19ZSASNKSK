@@ -7,7 +7,7 @@
 ##### Skupina:
  - Žiga Šolar	(zs3653@student.uni-lj.si)
  - Andraž Simčič (as7495@student.uni-lj.si)
- - Simon Klemenčič 
+ - Simon Klemenčič (sk0019@student.uni-lj.si)
  - Nejc Kozjek (nk4370@student.uni-lj.si)
  
 <br>
