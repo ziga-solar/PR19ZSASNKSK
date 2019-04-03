@@ -1,4 +1,5 @@
-# Podatkovno rudarjenje (PR)
+# Analiza zadnjih 120 let olimpijskih iger
+## Podatkovno rudarjenje (PR)
 #### Univerza v Ljubljani
 #### Fakulteta za računalništvo in informatiko
 <br>
