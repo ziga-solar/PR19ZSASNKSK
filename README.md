@@ -39,7 +39,7 @@ Za boljši pregled podatkov smo se odločii, da bomo združili tabeli v eno prek
 Analiza je pokazala zanimiv rezultat, saj so pri določenih športih na Olimpijskih igrah tekmovali tudi starejši športniki, vendar predvsem v športih, ki v sodobnem času niso več del iger. Izstopa kriket (Roque), kjer je bila povprečna starost tekmovalcev kar 53,3 let. Najmanjša povprečna starost tekmovalcev pa je v ritmični gimnastiki in sicer 18,74 let. Podrobnosti povprečnih starosti drugih športov so prikazane v grafu.
 </div>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 <div>
  <h6> Analiza povprečnih višin športnikov glede na šport</h6>
@@ -49,7 +49,7 @@ Analiza je pokazala zanimiv rezultat, saj so pri določenih športih na Olimpijs
 Ta analiza je prikazala pričakovan rezultat, da se najvišji športniki ukvarjajo s košarko. Njihova povprečna višina je kar 190,9 cm. Med višje športnike sodijo tudi tisti, ki se ukvarjajo z odbojko, vaterpolom, veslanjem in rokometom. Najnižji športniki so tisti, ki se ukvarjajo z gimnastiko, trampolinom ali potapljanjem. Druge podrobnosti so razvidne iz grafa, pri čemer za nekatere športe ni bilo podatkov.
 </div>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 <div>
  <h6> Analiza povprečne teže športnikov glede na šport</h6>
@@ -59,7 +59,7 @@ Ta analiza je prikazala pričakovan rezultat, da se najvišji športniki ukvarja
 Tudi pri tej analizi so bili najtežji športniki tisti, ki so se ukvarjali s kriketom (Roque). Ta šport ni več prisoten na Olimpijskih igrah. Najlažji športniki na grafu so presenetljivo nogometaši, vendar smo z dodatno analizo ugotovili, da je podatek pri enem od nogometašev zagotovo napačen (pri 183 cm višine ima vpisanih le 28 kg), kar nekaj pa je vpisanih tudi ženskih nogometašic, ki tehtajo manj kot 50 kg. Druge podrobnosti so razvidne iz grafa, pri čemer za nekatere športe ni bilo podatkov.
 </div>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 <div>
  <h6> Analiza najuspešnejših držav glede na število medalj</h6>
