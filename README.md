@@ -27,12 +27,12 @@ Podatki so v dveh tabelah. Prva tabela vsebuje 15 atributov, ki nam povedo špor
 
 Za boljši pregled podatkov smo se odločii, da bomo združili tabeli v eno preko atributa kratice države (NOC).
 
-<h4> Izvedene analize</h5>
+<h4> Izvedene analize</h4>
 
 <br>
 
 <div>
-<h6> Analiza povprečnih starosti športnikov glede na šport </h6>
+<h5> Analiza povprečnih starosti športnikov glede na šport </h5>
  
 <img align="right" src="Slike/avg_starost_tekmovalcev.png" alt="Prikaz povprečnih starosti športnikov" width="500" height="450" />
 
@@ -42,7 +42,7 @@ Analiza je pokazala zanimiv rezultat, saj so pri določenih športih na Olimpijs
 <br><br><br><br><br><br><br><br><br><br><br>
 
 <div>
- <h6> Analiza povprečnih višin športnikov glede na šport</h6>
+ <h5> Analiza povprečnih višin športnikov glede na šport</h5>
 
 <img align="right" src="Slike/avg_visina_tekmovalcev.png" alt="Prikaz povprečnih višin športnikov" width="500" height="450" />
 
@@ -52,7 +52,7 @@ Ta analiza je prikazala pričakovan rezultat, da se najvišji športniki ukvarja
 <br><br><br><br><br><br><br><br><br><br><br>
 
 <div>
- <h6> Analiza povprečne teže športnikov glede na šport</h6>
+ <h5> Analiza povprečne teže športnikov glede na šport</h5>
 
 <img align="right" src="Slike/avg_teza_tekmovalcev.png" alt="Prikaz povprečnih tež športnikov" width="500" height="450" />
 
@@ -62,7 +62,7 @@ Tudi pri tej analizi so bili najtežji športniki tisti, ki so se ukvarjali s kr
 <br><br><br><br><br><br><br><br><br>
 
 <div>
- <h6> Analiza najuspešnejših držav glede na število medalj</h6>
+ <h5> Analiza najuspešnejših držav glede na število medalj</h5>
 
 V tej analizi so upoštevane vse medalje, ne glede na barvo. Najuspešnejše so Združene države Amerike s 5219 osvojenimi medaljami. V tabeli je izpisanih najuspešnejših 10 držav, poleg njih pa še Slovenija s svojimi 48 medaljami. Podrobnosti so razvidne iz tabele.
 </div>
